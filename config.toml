@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://deft-tartufo-ab80ae.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "La France y L'Italia"
